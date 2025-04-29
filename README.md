@@ -55,21 +55,21 @@ URL 입력
 
 대용량 파일은 다운로드 시간이 다소 소요될 수 있음
 
-⚙️ config.json 설정 가이드
+⚙️ config.json 설정 가이드<br>
 설정 파일 적용 방법:
 
-config.json 다운로드:
+config.json 다운로드:<br>
 👉 config.json 다운로드 링크
 
-파일 내용 전체 복사 후, 다음 경로에 저장:
-C:\Users\[사용자이름]\gallery-dl\config.json
+파일 내용 전체 복사 후, 다음 경로에 저장: <br>
+C:\Users\[사용자이름]\gallery-dl\config.json <br>
 (프로그램 내 'config 열기' 버튼 클릭 시 해당 경로로 바로 이동 가능)
 
 고급 설정 팁:
 
 명령어 gallery-dl --list-keywords (url) 입력 시 사용 가능한 옵션 확인 가능
 
-👨‍💻 개발 정보 👨‍💻
-• gallery-dl (이미지 다운로더): @mikf https://github.com/mikf/gallery-dl
-• yt-dlp (영상 다운로더): @yt-dlp https://github.com/yt-dlp/yt-dlp
-• GUI 개발: @noName_Come https://github.com/noNameCome/kemyouhit-downloader-V1.6
+👨‍💻 개발 정보 👨‍💻 <br>
+• gallery-dl (이미지 다운로더): @mikf https://github.com/mikf/gallery-dl <br>
+• yt-dlp (영상 다운로더): @yt-dlp https://github.com/yt-dlp/yt-dlp <br>
+• GUI 개발: @noName_Come https://github.com/noNameCome/kemyouhit-downloader-V1.6 <br>
