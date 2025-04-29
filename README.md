@@ -49,12 +49,21 @@ URL 입력
 
 # 주의사항
 
-백신 프로그램이 다운로드를 방해할 수 있으니, 일시적으로 비활성화 권장
+● 백신 프로그램이 다운로드를 방해할 수 있으니, 일시적으로 비활성화 권장
 
-안정적인 인터넷 연결 필수
+● 안정적인 인터넷 연결 필수
 
-대용량 파일은 다운로드 시간이 다소 소요될 수 있음
+● 대용량 파일은 다운로드 시간이 다소 소요될 수 있음
 
+● gallery-dl & yt-dlp 최신 버전 필수
+```bash
+pip install gallery-dl
+pip install -U gallery-dl - 업데이트 명령어
+```
+```bash
+pip install yt-dl
+pip install -U yt-dlp - 업데이트 명령어
+```
 # ⚙️ config.json 설정 가이드<br>
 설정 파일 적용 방법:
 
